@@ -18,8 +18,8 @@ Yürütülen bu çalışmanın temel amacı; matematiksel akıl yürütme beceri
 Bu proje ve çözümler oluşturulurken kullanılan geliştirme ortamına ait sistem özellikleri:
 
 * **İşletim Sistemi:** Windows Geliştirme Ortamı
-* **Sürüm Kontrolü:** Git & GitHub
-* **Kullanılan Araçlar:** MathType / LaTeX, Draw.io
+* **Sürüm Kontrolü:** GitHub
+* **Kullanılan Araçlar:** MathType
 
 ---
 
